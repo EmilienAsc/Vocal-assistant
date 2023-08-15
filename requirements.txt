@@ -1,0 +1,5 @@
+Requirements :
+
+pip3 install openai
+pip3 install SpeechRecognition
+pip3 install elevenlabs
